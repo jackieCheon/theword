@@ -4,8 +4,6 @@
     align-items: center;
     flex:1;
     flex-wrap: wrap;
-    padding-left: 5px;
-    padding-right: 5px;
 }
 .image img {
     width: 230px;
