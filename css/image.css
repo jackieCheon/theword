@@ -6,11 +6,6 @@
     flex-wrap: wrap;
 }
 .image img {
-    justify-content: space-between;
-    text-align: center;
-    align-items: center;
-    flex:1;
-    flex-wrap: wrap;
     width: 150px;
     height: 150px;
     padding-left: 10px;
