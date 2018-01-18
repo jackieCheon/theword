@@ -4,8 +4,6 @@
     align-items: center;
     flex:1;
     flex-wrap: wrap;
-    padding-left: 5px;
-    padding-right: 5px;
 }
 .image img {
     width: 230px;
@@ -56,25 +54,25 @@
 
 	-webkit-transition: -webkit-transform 0.15s ease;
 
-	-webkit-transform: scale(2.0);
+	-webkit-transform: scale(1.0);
 
 	
 
 	-moz-transition: -moz-transform 0.15s ease;
 
-	-moz-transform: scale(2.0);
+	-moz-transform: scale(1.0);
 
 	
 
 	-o-transition: -o-transform 0.15s ease;
 
-	-o-transform: scale(2.0);
+	-o-transform: scale(1.0);
 
 	
 
 	transition: transform 0.15s ease;
 
-	transform: scale(2.0);
+	transform: scale(1.0);
 
 	
 
