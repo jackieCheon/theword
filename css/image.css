@@ -1,4 +1,5 @@
 .image {
+    display: flex;
     justify-content: space-between;
     text-align: center;
     align-items: center;
@@ -6,13 +7,9 @@
     flex-wrap: wrap;
 }
 .image img {
-    justify-content: space-between;
-    text-align: center;
-    align-items: center;
     flex:1;
-    flex-wrap: wrap;
-    width: 100px;
-    height: 100px;
+    width: 200px;
+    height: 200px;
 }
 
 
