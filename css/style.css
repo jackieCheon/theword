@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,600');
+@import 'reset.css'; /* 규칙들의 모음, 모든 세팅을 0으로 */
+@import 'globals.css';
+@import 'header.css';
+@import 'navigation.css';
+@import 'friends.css';
+@import 'bigScreen.css';
+@import 'mobile.css';
+@import 'search-bar.css';
+@import 'image.css';
+
+
